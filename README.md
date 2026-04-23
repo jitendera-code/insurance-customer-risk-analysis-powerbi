@@ -71,7 +71,7 @@ This project focuses on analyzing insurance data to generate meaningful insights
 * Insurance dataset (synthetic/analysis dataset)
 * Includes policy, customer, and claim-related data
 
-[Dashboard](https://raw.githubusercontent.com/jitendera-code/insurance-customer-risk-analysis-powerbi/main/Screenshot%202026-04-23%20181118.jpg)
+
 
 ## 🚀 Business Impact
 
@@ -85,8 +85,8 @@ This dashboard helps insurance companies:
 ---
 
 ## 📸 Dashboard Preview
+[Dashboard](https://raw.githubusercontent.com/jitendera-code/insurance-customer-risk-analysis-powerbi/main/Screenshot%202026-04-23%20181118.jpg)
 
-https://github.com/jitendera-code/insurance-customer-risk-analysis-powerbi/blob/main/Screenshot%202026-04-23%20181118.jpg
 
 
 
